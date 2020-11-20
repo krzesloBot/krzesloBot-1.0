@@ -1,0 +1,1 @@
+# krzesloBot-1.0
